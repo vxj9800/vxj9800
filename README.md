@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vatsal Joshi aka @vxj9800
 - 👀 I’m interested in Robotics, Unmanned Systems, Control Systems, Embedded Systems, etc.
-- 🌱 I’m currently pursuing PhD in mechanical engineering from the University of Texas at Arlington.
 - 💞️ I’m looking to collaborate on projects related to unmanned systems, embedded systems, GPGPU computation.
 - 📫 You can contact me at vatsalasitkumar.joshi@mavs.uta.edu
 
